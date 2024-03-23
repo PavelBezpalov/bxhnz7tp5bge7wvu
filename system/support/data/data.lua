@@ -1,0 +1,3 @@
+local addon, bxhnz7tp5bge7wvu = ...
+
+bxhnz7tp5bge7wvu.data = { }
